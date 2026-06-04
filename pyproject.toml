@@ -13,9 +13,11 @@ dependencies = [
     "langchain-groq>=1.1.2",
     "langchain-openai>=1.2.2",
     "langgraph>=1.2.4",
+    "matplotlib>=3.10.9",
     "pymupdf>=1.27.2.3",
     "pypdf>=6.12.2",
     "python-dotenv>=1.2.2",
+    "requests>=2.34.2",
     "sentence-transformers>=5.5.1",
     "typesense>=2.0.0",
 ]
