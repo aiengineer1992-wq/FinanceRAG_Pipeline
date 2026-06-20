@@ -13,3 +13,5 @@ langgraph
 sentence-transformers
 matplotlib
 requests
+streamlit
+torchvision
