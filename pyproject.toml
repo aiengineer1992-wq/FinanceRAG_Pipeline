@@ -19,5 +19,9 @@ dependencies = [
     "python-dotenv>=1.2.2",
     "requests>=2.34.2",
     "sentence-transformers>=5.5.1",
+    "streamlit>=1.58.0",
+    "torchvision>=0.27.1",
     "typesense>=2.0.0",
+]
+
 ]
